@@ -14,7 +14,92 @@ Staying confident on the bench
 Balancing academics and athletics
 Adjusting to freshman year
 For coaches: supporting your team’s mindset
-<p>
+<p> !DOCTYPE html>
+<!-- Tells the browser this document uses modern HTML. -->
+
+<html lang="en">
+<!-- Starts the webpage and identifies English as its language. -->
+
+<head>
+    <!-- The head contains information about the page. -->
+
+    <meta charset="UTF-8">
+    <!-- Allows the page to display letters and symbols correctly. -->
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Makes the page adjust to phones, tablets, and computers. -->
+
+    <title>Mindset Matters | College Athlete Wellness</title>
+    <!-- Sets the title displayed in the browser tab. -->
+
+</head>
+
+<body>
+    <!-- The body contains everything visitors see on the page. -->
+
+    <header>
+        <!-- The header introduces the website. -->
+
+        <h1>Mindset Matters</h1>
+        <!-- The main title of your website. -->
+
+        <p>Building stronger minds, one athlete at a time.</p>
+        <!-- A short slogan explaining the purpose of the website. -->
+
+        <nav>
+            <!-- Navigation helps visitors move around the website. -->
+
+            <a href="#home">Home</a>
+            <a href="#topics">Topics</a>
+            <a href="#about">About</a>
+
+        </nav>
+    </header>
+
+    <main>
+        <!-- Main contains the primary content of the webpage. -->
+
+        <section id="home">
+            <!-- The home section welcomes visitors. -->
+
+            <h2>Your Mindset Matters On and Off the Court</h2>
+
+            <p>
+                College life and college sports can bring pressure,
+                challenges, and new responsibilities. You do not have
+                to face every challenge without support.
+            </p>
+
+            <p>
+                Explore helpful information about confidence,
+                motivation, stress management, and adjusting to college.
+                Take the first step toward building a healthier mindset.
+            </p>
+
+            <a href="#topics">Explore Topics</a>
+            <!-- This link takes visitors to the topics section. -->
+
+        </section>
+
+        <section id="topics">
+            <!-- This section introduces the website's future categories. -->
+
+            <h2>What Would You Like Help With?</h2>
+
+            <p>
+                Every student has a different experience.
+                Choose a topic that relates to your goals and challenges.
+            </p>
+
+            <ul>
+                <!-- An unordered list displays topics as bullet points. -->
+
+                <li>Confidence and self-belief</li>
+                <li>Motivation and discipline</li>
+                <li>Stress and pressure management</li>
+                <li>Time management and academics</li>
+                <li>Adjusting to freshman year</li>
+
                 The goal is to encourage personal growth, confidence,
                 and healthy habits throughout the college experience.
             </p>
