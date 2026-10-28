@@ -14,3 +14,24 @@ Staying confident on the bench
 Balancing academics and athletics
 Adjusting to freshman year
 For coaches: supporting your team’s mindset
+<p>
+                The goal is to encourage personal growth, confidence,
+                and healthy habits throughout the college experience.
+            </p>
+        </section>
+
+    </main>
+
+    <footer>
+        <!-- The footer appears at the bottom of the webpage. -->
+
+        <p>&copy; 2026 Mindset Matters. Built for college students and athletes.</p>
+
+        <p>
+            This website provides educational information and is not
+            a substitute for professional mental health care.
+        </p>
+    </footer>
+
+</body>
+</html>
